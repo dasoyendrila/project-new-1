@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Menu</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon"> <!-- Replace 'favicon.ico' with your favicon file -->
+</head>
+<body>
+    <h1>Restaurant Menu</h1>
+
+    <h2>Menu Items</h2>
+    <table border="1">
+        <tr>
+            <th>Dish</th>
+            <th>Description</th>
+            <th>Price</th>
+        </tr>
+        <tr>
+            <td>Cheeseburger</td>
+            <td>Beef patty with cheese, lettuce, and tomato</td>
+            <td>$8.99</td>
+        </tr>
+        <tr>
+            <td>French Fries</td>
+            <td>Crispy golden fries</td>
+            <td>$3.49</td>
+        </tr>
+        <tr>
+            <td>Chocolate Cake</td>
+            <td>Rich and moist chocolate cake</td>
+            <td>$4.99</td>
+        </tr>
+        <tr>
+        <td>Japchae</td>
+        <td> balanced sweet and savory flavor</td>
+        <td>$17.7</td>
+        </tr>
+    </table>
+
+    <h2>Daily Specials</h2>
+    <ul>
+        <li>Buy one get one free coffee</li>
+        <li>Half-price appetizers from 3pm to 5pm</li>
+    </ul>
+
+    <p>Welcome to our restaurant! We are known for our <span style="font-weight: bold; color: red;">delicious food</span> and friendly service. Enjoy your meal!</p>
+</body>
+</html>
